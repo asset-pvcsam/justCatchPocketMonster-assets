@@ -42,7 +42,7 @@ If you want to contribute or update files:
 ## ⚠️ Notes
 
 * Keep file names descriptive and lowercase (e.g., `logo-dark.png`, `spaghetti.gif`).
-* For Pokémon's images, use the format `<four-digit ID>-<three-digit version>.png` (Example: `0001-001.png`).
+* For Pokémon's images, use the format `<four-digit ID>-<three-digit version (gender, variant)>.png` (Example: `0001-001.png`).
 * (Optional) For shiny versions, append `-shiny` at the end. (Example: `0001-001-shiny.png`)
 * (Optional) For form versions, append `-<form>` at the end (before shiny). (Example: `0001-001-mega-shiny.png`)
 * Avoid committing large files (>50MB) as GitHub does not support them.
